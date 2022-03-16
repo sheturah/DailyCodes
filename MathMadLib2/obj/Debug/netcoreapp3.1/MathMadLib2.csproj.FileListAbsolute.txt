@@ -1,0 +1,13 @@
+C:\Users\ssims\source\repos\MathMadLib2\MathMadLib2\bin\Debug\netcoreapp3.1\MathMadLib2.exe
+C:\Users\ssims\source\repos\MathMadLib2\MathMadLib2\bin\Debug\netcoreapp3.1\MathMadLib2.deps.json
+C:\Users\ssims\source\repos\MathMadLib2\MathMadLib2\bin\Debug\netcoreapp3.1\MathMadLib2.runtimeconfig.json
+C:\Users\ssims\source\repos\MathMadLib2\MathMadLib2\bin\Debug\netcoreapp3.1\MathMadLib2.runtimeconfig.dev.json
+C:\Users\ssims\source\repos\MathMadLib2\MathMadLib2\bin\Debug\netcoreapp3.1\MathMadLib2.dll
+C:\Users\ssims\source\repos\MathMadLib2\MathMadLib2\bin\Debug\netcoreapp3.1\MathMadLib2.pdb
+C:\Users\ssims\source\repos\MathMadLib2\MathMadLib2\obj\Debug\netcoreapp3.1\MathMadLib2.csprojAssemblyReference.cache
+C:\Users\ssims\source\repos\MathMadLib2\MathMadLib2\obj\Debug\netcoreapp3.1\MathMadLib2.AssemblyInfoInputs.cache
+C:\Users\ssims\source\repos\MathMadLib2\MathMadLib2\obj\Debug\netcoreapp3.1\MathMadLib2.AssemblyInfo.cs
+C:\Users\ssims\source\repos\MathMadLib2\MathMadLib2\obj\Debug\netcoreapp3.1\MathMadLib2.csproj.CoreCompileInputs.cache
+C:\Users\ssims\source\repos\MathMadLib2\MathMadLib2\obj\Debug\netcoreapp3.1\MathMadLib2.dll
+C:\Users\ssims\source\repos\MathMadLib2\MathMadLib2\obj\Debug\netcoreapp3.1\MathMadLib2.pdb
+C:\Users\ssims\source\repos\MathMadLib2\MathMadLib2\obj\Debug\netcoreapp3.1\MathMadLib2.genruntimeconfig.cache
