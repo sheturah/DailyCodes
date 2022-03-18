@@ -1,0 +1,13 @@
+C:\Users\ssims\source\repos\TotalTip\TotalTip\bin\Debug\netcoreapp3.1\TotalTip.exe
+C:\Users\ssims\source\repos\TotalTip\TotalTip\bin\Debug\netcoreapp3.1\TotalTip.deps.json
+C:\Users\ssims\source\repos\TotalTip\TotalTip\bin\Debug\netcoreapp3.1\TotalTip.runtimeconfig.json
+C:\Users\ssims\source\repos\TotalTip\TotalTip\bin\Debug\netcoreapp3.1\TotalTip.runtimeconfig.dev.json
+C:\Users\ssims\source\repos\TotalTip\TotalTip\bin\Debug\netcoreapp3.1\TotalTip.dll
+C:\Users\ssims\source\repos\TotalTip\TotalTip\bin\Debug\netcoreapp3.1\TotalTip.pdb
+C:\Users\ssims\source\repos\TotalTip\TotalTip\obj\Debug\netcoreapp3.1\TotalTip.csprojAssemblyReference.cache
+C:\Users\ssims\source\repos\TotalTip\TotalTip\obj\Debug\netcoreapp3.1\TotalTip.AssemblyInfoInputs.cache
+C:\Users\ssims\source\repos\TotalTip\TotalTip\obj\Debug\netcoreapp3.1\TotalTip.AssemblyInfo.cs
+C:\Users\ssims\source\repos\TotalTip\TotalTip\obj\Debug\netcoreapp3.1\TotalTip.csproj.CoreCompileInputs.cache
+C:\Users\ssims\source\repos\TotalTip\TotalTip\obj\Debug\netcoreapp3.1\TotalTip.dll
+C:\Users\ssims\source\repos\TotalTip\TotalTip\obj\Debug\netcoreapp3.1\TotalTip.pdb
+C:\Users\ssims\source\repos\TotalTip\TotalTip\obj\Debug\netcoreapp3.1\TotalTip.genruntimeconfig.cache
