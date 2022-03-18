@@ -1,0 +1,13 @@
+C:\Users\ssims\source\repos\NewNetId\NewNetId\bin\Debug\netcoreapp3.1\NewNetId.exe
+C:\Users\ssims\source\repos\NewNetId\NewNetId\bin\Debug\netcoreapp3.1\NewNetId.deps.json
+C:\Users\ssims\source\repos\NewNetId\NewNetId\bin\Debug\netcoreapp3.1\NewNetId.runtimeconfig.json
+C:\Users\ssims\source\repos\NewNetId\NewNetId\bin\Debug\netcoreapp3.1\NewNetId.runtimeconfig.dev.json
+C:\Users\ssims\source\repos\NewNetId\NewNetId\bin\Debug\netcoreapp3.1\NewNetId.dll
+C:\Users\ssims\source\repos\NewNetId\NewNetId\bin\Debug\netcoreapp3.1\NewNetId.pdb
+C:\Users\ssims\source\repos\NewNetId\NewNetId\obj\Debug\netcoreapp3.1\NewNetId.csprojAssemblyReference.cache
+C:\Users\ssims\source\repos\NewNetId\NewNetId\obj\Debug\netcoreapp3.1\NewNetId.AssemblyInfoInputs.cache
+C:\Users\ssims\source\repos\NewNetId\NewNetId\obj\Debug\netcoreapp3.1\NewNetId.AssemblyInfo.cs
+C:\Users\ssims\source\repos\NewNetId\NewNetId\obj\Debug\netcoreapp3.1\NewNetId.csproj.CoreCompileInputs.cache
+C:\Users\ssims\source\repos\NewNetId\NewNetId\obj\Debug\netcoreapp3.1\NewNetId.dll
+C:\Users\ssims\source\repos\NewNetId\NewNetId\obj\Debug\netcoreapp3.1\NewNetId.pdb
+C:\Users\ssims\source\repos\NewNetId\NewNetId\obj\Debug\netcoreapp3.1\NewNetId.genruntimeconfig.cache
